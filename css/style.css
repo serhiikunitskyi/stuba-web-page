@@ -1,0 +1,208 @@
+body
+{
+	background-color: #eedfac;
+}
+.header-left
+{
+	float: left;
+	position: static;
+}
+.header-right
+{
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+	position:static;
+}
+.nav_index 
+{
+    position: absolute;
+	top: 150px;
+	font-size: 35px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bolder;
+}
+.kontakty 
+{
+	position: fixed;
+	left: 100px;
+	bottom: 20px;
+	font-size: 35px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bolder;
+}
+.facebook
+{	
+	position: fixed;
+	left: 300px;
+	bottom: 20px;
+
+}
+.youtube
+{	
+	position: fixed;
+	left: 360px;
+	bottom: 20px;
+}
+.twitter
+{	
+	position: fixed;
+	left: 420px;
+	bottom: 20px;
+}
+.linkedin
+{	
+	position: fixed;
+	left: 480px;
+	bottom: 20px;
+}
+.adresa
+{
+	font-size: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-style: italic;
+	position: fixed;
+	right: 100px;
+	bottom: 20px;
+}
+.fakulta
+{
+	background: rgb(217, 255, 0);
+	border: 15px solid #000000;
+	position: absolute;
+	left: 300px;
+	top: 100px;
+}
+.student
+{
+	background: rgb(217, 255, 0);
+	border: 15px solid #000000;
+	position:absolute;
+	left: 1045px;
+	top: 100px;
+}
+.elektronicka_prihlaska
+{
+	background: rgb(217, 255, 0);
+	border: 15px solid #000000;
+	position: absolute;
+	bottom: -600px;
+	left: 150px;
+}
+.div_fakulta_left
+{
+	position: absolute;
+	margin-left: 100px;
+	margin-right: 1100px;
+	margin-top: 150px;
+	margin-bottom: -500px;
+	font-size: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 500;
+}
+#pic
+{
+	margin-top: 150px;
+	margin-right: -150px;
+	float: right;
+}
+.kontakty_fakulta
+{
+	font-size: 35px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bolder;
+}
+.facebook_fakulta
+{
+	left: 300px;
+	bottom: 20px;
+
+}
+.youtube_fakulta
+{	
+	left: 360px;
+	bottom: 20px;
+}
+.twitter_fakulta
+{	
+	left: 420px;
+	bottom: 20px;
+}
+.linkedin_fakulta
+{	
+	left: 480px;
+	bottom: 20px;
+}
+.adresa_fakulta
+{
+	font-size: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-style: italic;
+	position: fixed;
+	right: 100px;
+	bottom: 20px;
+}
+.student_nav
+{
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 150px;
+	font-size: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 500;
+}
+.div_student
+{
+	position: absolute;
+	margin-left: 100px;
+	margin-right: 600px;
+	margin-top: 200px;
+	font-size: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 500;
+}
+.kontakty_student
+{
+	font-size: 35px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bolder;
+}
+.facebook_student
+{
+	left: 300px;
+	bottom: 20px;
+
+}
+.youtube_student
+{	
+	left: 360px;
+	bottom: 20px;
+}
+.twitter_student
+{	
+	left: 420px;
+	bottom: 20px;
+}
+.linkedin_student
+{	
+	left: 480px;
+	bottom: 20px;
+}
+.adresa_student
+{
+	font-size: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-style: italic;
+	position: fixed;
+	right: 100px;
+	bottom: 20px;
+}
+.container
+{
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 150px;
+	font-size: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 500;
+}
